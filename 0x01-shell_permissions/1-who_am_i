@@ -1,2 +1,2 @@
 #!/bin/bash
-#1_wh_oam_i
+id -u -n
